@@ -1,0 +1,15 @@
+/home/boscao/Desktop/Trybe/Trybank/csharp-031-csharp-projeto-trybank/src/trybank/bin/Debug/net6.0/trybank
+/home/boscao/Desktop/Trybe/Trybank/csharp-031-csharp-projeto-trybank/src/trybank/bin/Debug/net6.0/trybank.deps.json
+/home/boscao/Desktop/Trybe/Trybank/csharp-031-csharp-projeto-trybank/src/trybank/bin/Debug/net6.0/trybank.runtimeconfig.json
+/home/boscao/Desktop/Trybe/Trybank/csharp-031-csharp-projeto-trybank/src/trybank/bin/Debug/net6.0/trybank.dll
+/home/boscao/Desktop/Trybe/Trybank/csharp-031-csharp-projeto-trybank/src/trybank/bin/Debug/net6.0/trybank.pdb
+/home/boscao/Desktop/Trybe/Trybank/csharp-031-csharp-projeto-trybank/src/trybank/obj/Debug/net6.0/trybank.csproj.AssemblyReference.cache
+/home/boscao/Desktop/Trybe/Trybank/csharp-031-csharp-projeto-trybank/src/trybank/obj/Debug/net6.0/trybank.GeneratedMSBuildEditorConfig.editorconfig
+/home/boscao/Desktop/Trybe/Trybank/csharp-031-csharp-projeto-trybank/src/trybank/obj/Debug/net6.0/trybank.AssemblyInfoInputs.cache
+/home/boscao/Desktop/Trybe/Trybank/csharp-031-csharp-projeto-trybank/src/trybank/obj/Debug/net6.0/trybank.AssemblyInfo.cs
+/home/boscao/Desktop/Trybe/Trybank/csharp-031-csharp-projeto-trybank/src/trybank/obj/Debug/net6.0/trybank.csproj.CoreCompileInputs.cache
+/home/boscao/Desktop/Trybe/Trybank/csharp-031-csharp-projeto-trybank/src/trybank/obj/Debug/net6.0/trybank.dll
+/home/boscao/Desktop/Trybe/Trybank/csharp-031-csharp-projeto-trybank/src/trybank/obj/Debug/net6.0/refint/trybank.dll
+/home/boscao/Desktop/Trybe/Trybank/csharp-031-csharp-projeto-trybank/src/trybank/obj/Debug/net6.0/trybank.pdb
+/home/boscao/Desktop/Trybe/Trybank/csharp-031-csharp-projeto-trybank/src/trybank/obj/Debug/net6.0/trybank.genruntimeconfig.cache
+/home/boscao/Desktop/Trybe/Trybank/csharp-031-csharp-projeto-trybank/src/trybank/obj/Debug/net6.0/ref/trybank.dll
